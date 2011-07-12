@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sdfgsdfg all builds</title>
+    <link type="text/html" rel="alternate" href="http://localhost:8080/job/sdfgsdfg/"></link>
+    <updated>2008-08-24T00:49:31Z</updated>
+    <author>
+        <name>Hudson Server</name>
+    </author>
+    <id>urn:uuid:903deee0-7bfa-11db-9fe1-0800200c9a66</id>
+    <entry>
+        <title>sdfgsdfg #2 (FAILURE)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/sdfgsdfg/2/"></link>
+        <id>tag:hudson.dev.java.net,2008:sdfgsdfg:2008-08-24_10-49-31</id>
+        <published>2008-08-24T00:49:31Z</published>
+        <updated>2008-08-24T00:49:31Z</updated>
+    </entry>
+    <entry>
+        <title>sdfgsdfg #1 (SUCCESS)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/sdfgsdfg/1/"></link>
+        <id>tag:hudson.dev.java.net,2008:sdfgsdfg:2008-08-24_10-48-21</id>
+        <published>2008-08-24T00:48:21Z</published>
+        <updated>2008-08-24T00:48:21Z</updated>
+    </entry>
+</feed>

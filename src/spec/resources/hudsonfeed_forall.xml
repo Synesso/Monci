@@ -1,0 +1,44 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hudson all builds</title>
+    <link type="text/html" rel="alternate" href="http://localhost:8080/"></link>
+    <updated>2008-08-24T07:57:44Z</updated>
+    <author>
+        <name>Hudson Server</name>
+    </author>
+    <id>urn:uuid:903deee0-7bfa-11db-9fe1-0800200c9a66</id>
+    <entry>
+        <title>esersdf #3 (ABORTED)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/esersdf/3/"></link>
+        <id>tag:hudson.dev.java.net,2008:esersdf:2008-08-24_17-57-44</id>
+        <published>2008-08-24T07:57:44Z</published>
+        <updated>2008-08-24T07:57:44Z</updated>
+    </entry>
+    <entry>
+        <title>esersdf #2 (SUCCESS)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/esersdf/2/"></link>
+        <id>tag:hudson.dev.java.net,2008:esersdf:2008-08-24_17-55-13</id>
+        <published>2008-08-24T07:55:13Z</published>
+        <updated>2008-08-24T07:55:13Z</updated>
+    </entry>
+    <entry>
+        <title>esersdf #1 (SUCCESS)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/esersdf/1/"></link>
+        <id>tag:hudson.dev.java.net,2008:esersdf:2008-08-24_17-55-10</id>
+        <published>2008-08-24T07:55:10Z</published>
+        <updated>2008-08-24T07:55:10Z</updated>
+    </entry>
+    <entry>
+        <title>sdfgsdfg #2 (FAILURE)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/sdfgsdfg/2/"></link>
+        <id>tag:hudson.dev.java.net,2008:sdfgsdfg:2008-08-24_10-49-31</id>
+        <published>2008-08-24T00:49:31Z</published>
+        <updated>2008-08-24T00:49:31Z</updated>
+    </entry>
+    <entry>
+        <title>sdfgsdfg #1 (SUCCESS)</title>
+        <link type="text/html" rel="alternate" href="http://localhost:8080/job/sdfgsdfg/1/"></link>
+        <id>tag:hudson.dev.java.net,2008:sdfgsdfg:2008-08-24_10-48-21</id>
+        <published>2008-08-24T00:48:21Z</published>
+        <updated>2008-08-24T00:48:21Z</updated>
+    </entry>
+</feed>
